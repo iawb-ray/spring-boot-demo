@@ -1,0 +1,15 @@
+package xyz.imawildboy.springboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import java.util.Map;
+
+@SpringBootApplication
+public class SpringBoot02ConfigApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBoot02ConfigApplication.class, args);
+    }
+
+}

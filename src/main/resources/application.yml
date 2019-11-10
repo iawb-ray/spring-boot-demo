@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+#person:
+#  age: 18
+#  last-name: hello
+#  boss: false
+#  birth: 2019/01/01
+#  maps: {k1: v1,k2: v2}
+#  lists:
+#    - wang
+#    - xing
+#  dog:
+#    name: puppy
+#    age: 2
+
+
